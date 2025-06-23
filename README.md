@@ -57,3 +57,4 @@ Attention was paid to visual accuracy, element positioning, and adaptability acr
 
 - 1 card visible  
 ![1card-8](https://github.com/zehrabekar/youtube_responsive_design/assets/93613471/4a082a0c-9aa3-44be-9187-b39b96224aeb)
+"# yt_page" 
